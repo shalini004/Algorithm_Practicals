@@ -29,7 +29,7 @@ for i in range(len(x)):
 
         
         
-output:        
+//output:        
 1
 3
 4
