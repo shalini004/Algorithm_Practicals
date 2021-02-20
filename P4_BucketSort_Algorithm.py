@@ -33,7 +33,7 @@ print("Sorted array is")
 print(bucketSort(x))
 
         
-output:
+//output:
 Sorted array is
 [0.1234, 0.3434, 0.565, 0.656, 0.665, 0.897]
 > 
