@@ -30,7 +30,7 @@ for i in range(n):
     print("%d" %arr[i])
         
 
-output:
+//output:
 Sorted array is
 5
 6
